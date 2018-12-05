@@ -25,7 +25,7 @@ public class XSLTProcessing {
 
 	public static void main(String[] args) {
 		
-		//xsltTransformExample();
+
 		XSLTProcessing xsltProcessing = new XSLTProcessing();
 		try {
 			xsltProcessing.convertToFO();
